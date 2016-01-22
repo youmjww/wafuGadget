@@ -1,4 +1,4 @@
 # wafuGadget
-desktop gadget is wafu
+#desktop gadget is wafu
 
-this gadget is KUDO
+#this gadget is KUDO
