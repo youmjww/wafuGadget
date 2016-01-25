@@ -1,0 +1,5 @@
+D:\MultiWork\Program\workSpace\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\MultiWork\Program\workSpace\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\MultiWork\Program\workSpace\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\MultiWork\Program\workSpace\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\MultiWork\Program\workSpace\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

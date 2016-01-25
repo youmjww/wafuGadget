@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image_division_reading", "Image_division_reading.csproj", "{CCB49999-EFB2-4027-9F05-69C6C43BF9B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB49999-EFB2-4027-9F05-69C6C43BF9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB49999-EFB2-4027-9F05-69C6C43BF9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB49999-EFB2-4027-9F05-69C6C43BF9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB49999-EFB2-4027-9F05-69C6C43BF9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
