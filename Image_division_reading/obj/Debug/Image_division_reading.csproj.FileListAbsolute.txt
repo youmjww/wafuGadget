@@ -3,3 +3,6 @@ D:\MultiWork\Program\workSpace\ConsoleApplication1\bin\Debug\ConsoleApplication1
 D:\MultiWork\Program\workSpace\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\MultiWork\Program\workSpace\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\MultiWork\Program\workSpace\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\youmain\documents\github\wafuGadget\Image_division_reading\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\youmain\documents\github\wafuGadget\Image_division_reading\obj\Debug\ConsoleApplication1.exe
+C:\Users\youmain\documents\github\wafuGadget\Image_division_reading\obj\Debug\ConsoleApplication1.pdb
