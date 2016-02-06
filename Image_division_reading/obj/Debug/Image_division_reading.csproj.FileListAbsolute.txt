@@ -6,3 +6,6 @@ D:\MultiWork\Program\workSpace\ConsoleApplication1\obj\Debug\ConsoleApplication1
 C:\Users\youmain\documents\github\wafuGadget\Image_division_reading\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\youmain\documents\github\wafuGadget\Image_division_reading\obj\Debug\ConsoleApplication1.exe
 C:\Users\youmain\documents\github\wafuGadget\Image_division_reading\obj\Debug\ConsoleApplication1.pdb
+C:\Users\youmain\Documents\GitHub\wafuGadget\Image_division_reading\bin\Debug\ConsoleApplication1.exe
+C:\Users\youmain\Documents\GitHub\wafuGadget\Image_division_reading\bin\Debug\ConsoleApplication1.pdb
+C:\Users\youmain\Documents\GitHub\wafuGadget\Image_division_reading\obj\Debug\Image_division_reading.csprojResolveAssemblyReference.cache

@@ -16,7 +16,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // 画像を読み込む
-            string baseFilePath = @"C:\Users\youmain\Desktop\新しいフォルダー\gadgetSample.jpg";
+            string baseFilePath = @"C:\Users\youmain\Desktop\新しいフォルダー\gadgetSample.png";
             Bitmap bmpBase = new Bitmap(baseFilePath);
 
             int xy = 0;
@@ -38,8 +38,8 @@ namespace ConsoleApplication1
                     Bitmap bmpNew = bmpBase.Clone(rect, bmpBase.PixelFormat);
 
                     // 画像をJpeg形式で保存
-                    string newFilePath = @"C:\Users\youmain\Desktop\新しいフォルダー\hoge" + ( counter++ ) + ".jpg";
-                    bmpNew.Save(newFilePath, ImageFormat.Jpeg);
+                    string newFilePath = @"C:\Users\youmain\Desktop\新しいフォルダー\hoge" + ( counter++ ) + ".png";
+                    bmpNew.Save(newFilePath, ImageFormat.Png);
 
                     // 画像リソースを解放                    
                     bmpNew.Dispose();
