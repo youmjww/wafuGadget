@@ -1,0 +1,9 @@
+D:\MultiWork\Program\workSpace\imgSwitchTest\bin\Debug\imgSwitchTest.exe.config
+D:\MultiWork\Program\workSpace\imgSwitchTest\bin\Debug\imgSwitchTest.exe
+D:\MultiWork\Program\workSpace\imgSwitchTest\bin\Debug\imgSwitchTest.pdb
+D:\MultiWork\Program\workSpace\imgSwitchTest\obj\Debug\imgSwitchTest.csprojResolveAssemblyReference.cache
+D:\MultiWork\Program\workSpace\imgSwitchTest\obj\Debug\imgSwitchTest.Form1.resources
+D:\MultiWork\Program\workSpace\imgSwitchTest\obj\Debug\imgSwitchTest.Properties.Resources.resources
+D:\MultiWork\Program\workSpace\imgSwitchTest\obj\Debug\imgSwitchTest.csproj.GenerateResource.Cache
+D:\MultiWork\Program\workSpace\imgSwitchTest\obj\Debug\imgSwitchTest.exe
+D:\MultiWork\Program\workSpace\imgSwitchTest\obj\Debug\imgSwitchTest.pdb
